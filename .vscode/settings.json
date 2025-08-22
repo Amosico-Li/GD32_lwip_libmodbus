@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "slider.h": "c",
+        "netbuf.h": "c",
+        "ip4_addr.h": "c",
+        "ethernetif.h": "c",
+        "__config": "c",
+        "gd32h7xx.h": "c",
+        "enet.h": "c",
+        "sys.h": "c",
+        "gd32h7xx_enet.h": "c",
+        "opt.h": "c",
+        "ethernet.h": "c",
+        "netif.h": "c",
+        "freertos.h": "c",
+        "semphr.h": "c",
+        "task.h": "c",
+        "string.h": "c",
+        "memp_std.h": "c",
+        "stdio.h": "c",
+        "socket.h": "c",
+        "tcpip.h": "c",
+        "sys_arch.h": "c",
+        "systick.h": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.clang_format_path": "C:\\Users\\18714\\.vscode\\extensions\\ms-vscode.cpptools-1.25.3-win32-x64\\LLVM\\bin\\clang-format.exe"
+    
+}
